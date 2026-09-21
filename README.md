@@ -4,8 +4,6 @@
 
 这是一个面试与学习用途的 CLI 项目：Docker Compose 负责运行 Milvus 基础设施，Node.js 脚本在宿主机执行数据入库和问答工作流。
 
-> 面试时如何讲函数调用、示例和技术难点，请看 [Agentic RAG 面试讲解手册](agentic-rag/advance-rag/README-decompose-webfallback.md)。
-
 ## 核心能力
 
 - 将 EPUB 小说按章节加载，再切分为带重叠的文本片段。
@@ -102,7 +100,6 @@ Agentic-RAG/
       ├─ 天龙八部.epub                     # 本地知识库原始文件
       ├─ package.json
       ├─ pnpm-lock.yaml
-      ├─ README-decompose-webfallback.md  # 面试讲解手册
       ├─ Final-RAG.md                     # LangGraph 流程图
       ├─ plan-src/                        # 合并前的参考脚本
       │  ├─ rag-multiple.mjs

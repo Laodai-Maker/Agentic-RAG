@@ -46,6 +46,9 @@ Desktop.ini
 *.pid.lock
 *.seed
 
+# 仅供本地使用的面试讲解文档
+/agentic-rag/advance-rag/README-decompose-webfallback.md
+
 # Milvus / etcd / MinIO 运行数据
 /backend/docker/milvus-docker/volumes/
 # 文章
